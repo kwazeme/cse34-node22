@@ -1,0 +1,20 @@
+{
+  "name": "cse341-node22",
+  "version": "1.0.0",
+  "description": "CSE341 Web Backend Development II - Fall 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwazeme/cse341-node22.git"
+  },
+  "keywords": [],
+  "author": "Kwazeme Ogubie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwazeme/cse341-node22/issues"
+  },
+  "homepage": "https://github.com/kwazeme/cse341-node22#readme"
+}
